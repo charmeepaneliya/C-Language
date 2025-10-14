@@ -6,18 +6,18 @@ int main()
 
     float daAmount,taAmount,hraAmount;
 
-    printf("enter basic salary\n");
+    printf("Enter basic salary\n");
     scanf("%f",&basicSalary);
 
 
-    printf("enter your DA\a");
+    printf("Enter your DA\a");
     scanf("%f",&DA);
 
-    printf("enter your TA\a");
+    printf("Enter your TA\a");
     scanf("%f",&TA);
 
     
-    printf("enter your HRA\a");
+    printf("Enter your HRA\a");
     scanf("%f",&HRA);
 
     daAmount = (basicSalary*DA)/100;

@@ -17,26 +17,7 @@
 // }
 
 
-// #include<stdio.h>
-// int main()
-// {
 
-//     float firstAngel,secondAngel,ThirdAngel;
-
-//     printf("enter the first angle:\n");
-//     scanf("%f",&firstAngel);
-
-//     printf("enter the second angle:\n");
-//     scanf("%f",&secondAngel);
-
-
-//     ThirdAngel = 180 - (firstAngel + secondAngel);
-
-//     printf("third angle:%.2f",ThirdAngel);
-
-//     return 0;
-
-// }
 
 
 #include <stdio.h>
